@@ -79,6 +79,10 @@ The PCB uses two copper layers:
 The Arduino Nano is placed in the center, while the servo connectors are placed around the edges to make wiring to the four legs easier.
 
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3810fb22-a1a9-4f39-acc2-3d46422460a5" />
+
+
+
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8c445028-dcb1-43a4-a813-3f8bfd75fb48" />
 
 
