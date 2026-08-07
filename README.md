@@ -83,6 +83,11 @@ The Arduino Nano is placed in the center, while the servo connectors are placed 
 
 
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ff60ded4-0a45-414d-aa89-c1b7087a5242" />
+
+
+
+
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8c445028-dcb1-43a4-a813-3f8bfd75fb48" />
 
 
